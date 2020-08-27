@@ -12,7 +12,6 @@ We prototyped the framework by adopting the filter- and deep learning-enabled de
 ### Installation
 
 Python 3.6.11 is used in our experiments.
-
 The required packages and corresponding versions can be found in the requirements.
 
 You can clone this repository and install them with *pip*.
@@ -28,7 +27,6 @@ The structure of EDITS is shown as:
 In this repository, we submitted the core functional components. 
 
 This basic version implements most of the functions and is ready to be put into experiments.
-
 The complete automation framework will appear in subsequent submissions.
 
 ### Example
