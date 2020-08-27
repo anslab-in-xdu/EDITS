@@ -21,7 +21,7 @@ You can clone this repository and install them with *pip*.
 
 The structure of EDITS is shown as:
 
-![Structure](./Example/framework.pdf)
+![Structure](./Example/framework.png)
 
 
 
